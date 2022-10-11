@@ -6,7 +6,7 @@
 - 📫 Contate-me via email: laeziop28@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex" width="100%" justify-content: "center">
   <a href="https://github.com/LaezioAP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laezioap&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laezioap&layout=compact&langs_count=7&theme=gruvbox"/>
