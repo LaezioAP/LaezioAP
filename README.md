@@ -1,7 +1,7 @@
 ### Hello there! 👋 Eu me chamo Laezio Picanço; vulgo (Lala)
 
 
-- 🌱 Estudando Desenvolvimento de Software na Cubos Academy
+- 🌱 Estudante de Desenvolvimento de Software na Cubos Academy
 - 💬 Apaixonado por tecnologia, games e starwars! Que a força esteja com você! Me chama pra bater um papo aí! :)
 - 📫 Contate-me via email: laeziop28@hotmail.com
 - 😄 Pronouns: Ele/Dele
