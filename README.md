@@ -1,4 +1,4 @@
-### Hello there! 👋 Eu me chamo Laezio Picanço; vulgo (Lala)
+### Hello there! 👋 Eu me chamo Laezio Picanço
 
 
 - 🌱 Estudante de Desenvolvimento de Software na Cubos Academy
