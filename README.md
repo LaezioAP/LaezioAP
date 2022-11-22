@@ -1,34 +1,24 @@
-### Hello there! 👋 Eu me chamo Laezio Picanço
+# 💫 About Me:
+💬 Nortista das terras tucuju, 24 anos e apaixonado por tecnologia e games (de<br>onde surgiu meu interesse em programação) atiçado pela curiosidade de<br>como os jogos eletrônicos funcionam por baixo dos panos, acabei<br>mergulhando fundo no mundo da computação.<br><br>🔭 Busco oportunidade como Desenvolvedor Back-end.<br><br>🌱  Estudante de Desenvolvimento de Software na Cubos Academy.
 
 
-- 🌱 Estudante de Desenvolvimento de Software na Cubos Academy
-- 💬 Apaixonado por tecnologia, games e starwars! Que a força esteja com você! Me chama pra bater um papo aí! :)
-- 📫 Contate-me via email: laeziop28@hotmail.com
-- 😄 Pronouns: Ele/Dele
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/laezio-picanco/) 
 
-<div>
-  <a href="https://github.com/LaezioAP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laezioap&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laezioap&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LaezioAP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LaezioAP&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LaezioAP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="laezio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="laezio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="laezio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="laezio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="laezio-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="laezio-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="laezio-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-##
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<div>
-  <a href="https://www.linkedin.com/in/laezio-pican%C3%A7o-a23335219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:laeziop28@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/iamlaeziopicanco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5596981382227?text=Ol%C3%A1+Laezio%2C+tudo+bem+%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=LaezioAP&icon=1&color=2)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/laezioap/laezioap/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
