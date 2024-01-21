@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Nortista das terras tucuju, 24 anos e apaixonado por tecnologia e games (de<br>onde surgiu meu interesse em programação) atiçado pela curiosidade de<br>como os jogos eletrônicos funcionam por baixo dos panos, acabei<br>mergulhando fundo no mundo da computação.<br><br>💻  Desenvolvedor de Software Full Stack e tenho objetivo de ingressar no mercado de trabalho como desenvolvedor Back End em NodeJS, Javascript, SQL, C#, .NET.<br><br>
+💬 Nortista das terras tucuju, 24 anos e apaixonado por tecnologia e games (de<br>onde surgiu meu interesse em programação) atiçado pela curiosidade de<br>como os jogos eletrônicos funcionam por baixo dos panos, acabei<br>mergulhando fundo no mundo da computação.<br><br>💻  Software Developer com experiências em ReactJS, NodeJS, Postgresql, PHP e sigo estudando Engenharia da Computação, Inglês e Japonês. Atualmente estou trabalhando no Mercado Livre em produto Kangu com foco em Back End.<br><br>
 
 
 ## 🌐 Socials:
